@@ -4,4 +4,5 @@
 
 print("I am now more familiar with Git")
 print("This line exists only in development branch before stash")
+print("Added line only in development branch")
 ``
