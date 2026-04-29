@@ -1,0 +1,15 @@
+# Ignore all files with the following extensions
+*.txt
+*.png
+*.jpg
+*.pdf
+*.exe
+*.pyc
+
+# Ignore IDE and editor folders
+.vscode/
+.idea/
+
+# Ignore screenshots folder
+screen_captures/
+``
