@@ -2,4 +2,4 @@
 # Author: Venla Saarinen
 # Description: Code for Git testing purposes
 
-print("I am a beginner with Git")
+print("I am now more familiar with Git")
